@@ -1,0 +1,19 @@
+.title-b {
+    color: white;
+    text-align: center;
+    background: blue;
+}
+
+.title-c {
+    color: white;
+    text-align: center;
+    background: green;
+}
+
+.title-e {
+    text-align: center;
+    background: yellow;
+}
+div {
+    text-align: center;
+}
