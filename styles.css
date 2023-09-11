@@ -1,11 +1,25 @@
+* {
+    margin: 16px;
+    background-color: white;
+}
+
 #title {
     color: white;
     text-align: center;
-    background: red;
+    background: rgb(240, 66, 66);
 }
 
-.title-b {
-    color: white;
+.b-link {
+    background: rgb(140, 140, 243);
     text-align: center;
-    background: red;
+}
+
+.chi-broc {
+    background: rgb(151, 231, 151);
+    text-align: center;
+}
+
+.elote {
+    background: rgb(255, 255, 154);
+    text-align: center;
 }
